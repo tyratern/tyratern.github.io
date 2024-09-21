@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tyratern.github.io/sitemap.html.gz
+Sitemap: https://tyratern.github.io/app/sitemap.html.gz
+Sitemap: https://tyratern.github.io/assets/sitemap.html.gz
+Sitemap: https://tyratern.github.io/css/sitemap.html.gz
+Sitemap: https://tyratern.github.io/data/sitemap.html.gz
+Sitemap: https://tyratern.github.io/includes/sitemap.html.gz
+Sitemap: https://tyratern.github.io/item/sitemap.html.gz
+Sitemap: https://tyratern.github.io/src/sitemap.html.gz
